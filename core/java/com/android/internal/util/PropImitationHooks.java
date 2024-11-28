@@ -60,14 +60,14 @@ public class PropImitationHooks {
             "com.google.android.gms/.auth.uiflows.minutemaid.MinuteMaidActivity");
 
     private static final Map<String, String> sPixelNineProps = Map.of(
-            "PRODUCT", "komodo_beta",
+            "PRODUCT", "komodo",
             "DEVICE", "komodo",
             "HARDWARE", "komodo",
             "MANUFACTURER", "Google",
             "BRAND", "google",
             "MODEL", "Pixel 9 Pro XL",
-            "ID", "AP31.240617.015",
-            "FINGERPRINT", "google/komodo_beta/komodo:15/AP31.240617.015/12207491:user/release-keys"
+            "ID", "AP4A.241205.013",
+            "FINGERPRINT", "google/komodo/komodo:15/AP4A.241205.013/12621605:user/release-keys"
     );
 
     private static final Map<String, String> sPixelTabletProps = Map.of(
